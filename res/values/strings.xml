@@ -3,6 +3,10 @@
     <string name="app_name">Binary versioning system</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="menu_installed_apps">Installed apps</string>
+    <string name="menu_install">Install</string>
     <string name="title_activity_home">Home</string>
-
+	<string name="no_apk">apk file not found</string>
+	<string name="opts_menu">click menu to view options</string>
+	<string name="menu_search">Search</string>
 </resources>
